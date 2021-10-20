@@ -1,0 +1,8 @@
+.title{
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    text-shadow: 0 0 10px rgb(187, 187, 187), 0 0 20px rgb(204, 204, 204), 0 0 20px rgba(65, 105, 225, 0.356), 0 0 30px rgba(65, 105, 225, 0.356),
+    0 0 40px rgba(65, 105, 225, 0.356), 0 0 50px rgba(65, 105, 225, 0.356), 0 0 60px rgba(65, 105, 225, 0.356);
+}
